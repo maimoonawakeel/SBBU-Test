@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "142903998965",
+    "project_id": "sbbu-test-f5655",
+    "storage_bucket": "sbbu-test-f5655.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142903998965:android:6aef95af0ad49afe4788bc",
+        "android_client_info": {
+          "package_name": "com.example.first_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142903998965-bp3jsqjc8545f985ic78r59tc7o5etju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0AWLuBZliYEQ_nbuMAvD8iJMXTYpBW0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142903998965-bp3jsqjc8545f985ic78r59tc7o5etju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

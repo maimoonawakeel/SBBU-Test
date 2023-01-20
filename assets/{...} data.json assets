@@ -1,0 +1,32 @@
+{
+    "studentsInfo": [
+    {
+        "id" :1,
+    "name": "Maryam",
+    "fathername": "wakeel",
+    "depart": "computer science",
+    "description": "i am a student"
+    },
+    {
+        "id" :2,
+    "name": "gulrukh",
+    "fathername": "wakeel",
+    "depart": "computer science",
+    "description": "i am a student"
+    },
+    {
+        "id" :3,
+    "name": "yousaf",
+    "fathername": "wakeel",
+    "depart": "computer science",
+    "description": "i am a student"
+    },
+    {
+        "id" :4,
+    "name": "Maimoona",
+    "fathername": "wakeel",
+    "depart": "computer science",
+    "description": "i am a student"
+    },
+ ];
+}
